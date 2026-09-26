@@ -1,4 +1,3 @@
-```markdown
 # SwaasthyaSetu — Offline-First Unified Healthcare Ecosystem with Rapid Ambulance Response
 
 **Smart India Hackathon 2026 | Problem Statement ID: SIH26133**
@@ -130,7 +129,20 @@ Aligned with **UN Sustainable Development Goal 3 (Good Health & Well-Being)**:
 - Extending Universal Health Coverage to offline, underserved rural populations
 
 ---
+
+## 👨‍💻 Team YUKTI
+
+| Role | Member |
+|---|---|
+| Team Lead & Android Developer | `Aishwarya Mahadev Kotabagi` |
+| Backend Microservices Architect | `Bhuvan Kashyap N` |
+| AI & NLP Engineer | `Chirag GC` |
+| Edge Database & Sync Engineer | `Kailasha Perumal K` |
+| ABDM & HL7 FHIR Specialist | `L Mahadeva Balan` |
+| UI/UX Designer & QA Lead | `Nithin S Shetty` |
+
+---
+
 ## 📄 License
 
 This project is built for Smart India Hackathon 2026 (SIH26133). License to be determined.
-`
