@@ -1,3 +1,4 @@
+```markdown
 # SwaasthyaSetu — Offline-First Unified Healthcare Ecosystem with Rapid Ambulance Response
 
 **Smart India Hackathon 2026 | Problem Statement ID: SIH26133**
@@ -77,3 +78,59 @@ A single mobile app that works **offline-first**, syncing automatically the mome
 ---
 
 ## 📂 Project Structure
+
+```
+SwaasthyaSetu_Complete_Android_App/
+├── app/
+│   ├── src/main/
+│   │   ├── java/com/swaasthyasetu/prototype/   # Kotlin source files
+│   │   ├── res/                                 # Resources (layouts, values)
+│   │   └── AndroidManifest.xml
+│   └── build.gradle.kts
+├── gradle/
+├── build.gradle.kts
+├── settings.gradle.kts
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Android Studio (latest stable)
+- JDK 17+
+- Android SDK (API level as configured in `build.gradle.kts`)
+
+### Setup
+
+```bash
+git clone https://github.com/nithinsshetty/Swaasthyasetu.git
+cd Swaasthyasetu
+```
+
+Open the project in Android Studio and let Gradle sync, then run on an emulator or physical device via **Run ▶**.
+
+---
+
+## 🔒 Security & Compliance
+
+- **Data at Rest:** AES-256 encryption via SQLCipher
+- **Data in Transit:** TLS 1.3
+- **Access Control:** Role-Based Access Control (RBAC) with OAuth 2.0/JWT
+- **Legal Compliance:** Digital Personal Data Protection (DPDP) Act 2023, ABDM Health Data Management Policy
+
+---
+
+## 🌍 Impact & SDG Alignment
+
+Aligned with **UN Sustainable Development Goal 3 (Good Health & Well-Being)**:
+- Reducing maternal mortality through early ASHA-level triage
+- Improving Golden Hour emergency response times
+- Extending Universal Health Coverage to offline, underserved rural populations
+
+---
+## 📄 License
+
+This project is built for Smart India Hackathon 2026 (SIH26133). License to be determined.
+`
